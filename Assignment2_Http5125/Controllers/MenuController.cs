@@ -13,7 +13,7 @@ namespace Assignment2_Http5125.Controllers
         private static readonly int[] SideCalories = { 0, 100, 57, 70, 0 };
         private static readonly int[] DessertCalories = { 0, 167, 266, 75, 0 };
 
-        // GET api/J1/menu/{burger}/{drink}/{side}/{dessert}
+        // GET api/J1/Menu/{burger}/{drink}/{side}/{dessert}
         // This endpoint calculates the total calorie count based on the selected burger, drink, side, and dessert.
         [HttpGet]
         [Route("{burger}/{drink}/{side}/{dessert}")]

@@ -30,3 +30,4 @@ C:\Users\Jupet Jagonos\source\repos\Assignment2_Http5125\Assignment2_Http5125\ob
 C:\Users\Jupet Jagonos\source\repos\Assignment2_Http5125\Assignment2_Http5125\obj\Debug\net8.0\Assignment2_Http5125.pdb
 C:\Users\Jupet Jagonos\source\repos\Assignment2_Http5125\Assignment2_Http5125\obj\Debug\net8.0\Assignment2_Http5125.genruntimeconfig.cache
 C:\Users\Jupet Jagonos\source\repos\Assignment2_Http5125\Assignment2_Http5125\obj\Debug\net8.0\ref\Assignment2_Http5125.dll
+C:\Users\Jupet Jagonos\source\repos\Assignment2_Http5125\Assignment2_Http5125\obj\Debug\net8.0\Assignment2_Http5125.sourcelink.json
