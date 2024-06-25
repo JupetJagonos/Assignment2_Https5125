@@ -1,0 +1,6 @@
+@Assignment2_Http5125_HostAddress = http://localhost:5207
+
+GET {{Assignment2_Http5125_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
