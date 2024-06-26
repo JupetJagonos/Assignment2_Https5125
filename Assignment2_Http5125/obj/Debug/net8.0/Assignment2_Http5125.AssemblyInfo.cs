@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment2_Http5125")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7634fdff334c3d7130c7e0056d70600377a19dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e929f27d28448e0e73de42237ee6512f1ab1405d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment2_Http5125")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment2_Http5125")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
